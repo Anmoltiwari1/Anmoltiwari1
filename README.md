@@ -72,19 +72,23 @@ I prioritize **clean logic, strong fundamentals, and scalable backend design** o
 
 ---
 
+
+### 🧰 Skills & Proficiency
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,js,react,nodejs,express,mongodb,git,github,vscode" alt="Skills" />
+</p>
+
+<p align="center">
+  <b>Core Java | MERN Stack | Spring Boot | REST APIs | OOP | Data Structures | Git & GitHub</b>
+</p>
+
 ### 🐍 Contribution Activity
 ![GitHub Snake Animation](https://raw.githubusercontent.com/Anmoltiwari1/Anmoltiwari1/output/github-contribution-grid-snake.svg)
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anmoltiwari1&show_icons=true" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anmoltiwari1" />
-</p>
 
 <!-- Footer Animation -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0e75b6&height=120&section=footer" />
