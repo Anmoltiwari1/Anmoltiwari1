@@ -1,26 +1,25 @@
-![Banner](https://github.com/Anmoltiwari1/Anmoltiwari1/blob/main/ChatGPT%20Image%20Apr%203%2C%202025%2C%2011_30_13%20PM.png)
+<!-- Header Animation -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:00c6ff&height=200&section=header&text=Anmol%20Tiwari&fontSize=45&fontColor=ffffff&animation=fadeIn" />
 
-<h1 align="center">Hi, I'm Anmol Tiwari 👋</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Java+%7C+MERN+Stack;Backend-Focused+Engineer" />
-</p>
+<h3 align="center">Full-Stack Developer | Java & MERN | CS Student</h3>
 
 <img align="right" alt="coding" width="380" src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 
 ---
 
 ### 👋 About Me
-I’m a Computer Science student from India focused on **building backend-heavy, real-world applications**.  
-I prioritize **logic, clean code, and fundamentals** over shallow UI work.
+I’m a Computer Science student from India focused on **backend-heavy, real-world applications**.  
+I prioritize **clean logic, strong fundamentals, and scalable backend design** over superficial UI.
 
 - 💻 Backend-focused Full-Stack Developer  
 - 🧠 Strong in **Core Java, OOP, Data Structures**
-- 🌱 Currently learning **Spring Boot & scalable backend design**
+- 🌱 Learning **Spring Boot & backend system design**
 - 🔗 Portfolio: **https://v0-anmol-tiwari-portfolio.vercel.app/**
 - 📫 Email: **anmoltiwari012@gmail.com**
 
 ---
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" />
 
 ### 🚀 Featured Projects
 
@@ -32,11 +31,11 @@ I prioritize **logic, clean code, and fundamentals** over shallow UI work.
 **Concepts:** OOP, Collections, Multithreading
 
 #### 🌐 Full-Stack CRUD Application (MERN)
-- REST APIs using Node.js & Express
+- REST APIs with Node.js & Express
 - MongoDB schema design
-- Frontend built with React
-- Authentication & CRUD flows  
-**Concepts:** REST, MVC, Client-Server Architecture
+- React-based frontend
+- Authentication & CRUD workflows  
+**Concepts:** REST, MVC, Client–Server Architecture
 
 ---
 
@@ -51,8 +50,7 @@ I prioritize **logic, clean code, and fundamentals** over shallow UI work.
 - REST APIs
 
 **Frontend**
-- React
-- HTML, CSS
+- React, HTML, CSS
 
 **Database**
 - MongoDB
@@ -74,11 +72,12 @@ I prioritize **logic, clean code, and fundamentals** over shallow UI work.
 
 ---
 
-### 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anmoltiwari1&layout=compact" />
-</p>
+### 🐍 Contribution Activity
+![GitHub Snake Animation](https://raw.githubusercontent.com/Anmoltiwari1/Anmoltiwari1/output/github-contribution-grid-snake.svg)
 
+---
+
+### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=anmoltiwari1&show_icons=true" />
 </p>
@@ -86,3 +85,6 @@ I prioritize **logic, clean code, and fundamentals** over shallow UI work.
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=anmoltiwari1" />
 </p>
+
+<!-- Footer Animation -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0e75b6&height=120&section=footer" />
